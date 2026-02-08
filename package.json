@@ -3,10 +3,12 @@
     "author": "Jullanar", 
     "version": "1.0.0",
     "description": "A project that does something awesome",
-    "keywords": [ "descriptive", "related", "words" ,"freecodecamp"]
+    "keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+    "license": "MIT"
    
 
   }
+
 
 
 
